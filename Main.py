@@ -255,4 +255,4 @@ async def poems(ctx):
 
 #   await ctx.send(embed=embed)
 
-bot.run('OTk1MzkyMTI3NDM5NzMyNzY2.GlxsRQ.pyhL8bTjbozD7ySqbjKC1XgWBqztybiyKifve0')
+bot.run('TOKEN')
